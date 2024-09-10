@@ -1,16 +1,15 @@
-## Hi there 👋
+## Welcome to my profile 💮
+-ALURA
 
-<!--
-**Grazilm/Grazilm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-JAVASCRIPT
 
-Here are some ideas to get you started:
+I use this space to organize and share my projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### my contact 📫
+0000112451436sp@al.educacao.sp.gov.br
+
+@grazielle.macena
+
+![](https://media1.tenor.com/m/iRolM09jY00AAAAC/elena-gilbert-elena-desired-face.gif)
